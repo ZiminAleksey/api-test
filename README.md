@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/o72yswi4mj60y1by?svg=true)](https://ci.appveyor.com/project/kuznecovaelenaa/aqa-homework3-1-vapdc)
+api-test [![Build status](https://ci.appveyor.com/api/projects/status/xrge2xn59d4ydgq8?svg=true)](https://ci.appveyor.com/project/ZiminAleksey/api-test)
