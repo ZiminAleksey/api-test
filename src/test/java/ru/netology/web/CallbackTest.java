@@ -26,10 +26,11 @@ public class CallbackTest {
     @BeforeEach
     void setUp() {
         ChromeOptions options = new ChromeOptions();
-//        options.addArguments("--disable-dev-shm-usage");
-//        options.addArguments("--no-sandbox");
+        options.addArguments("--disable-dev-shm-usage");
+        options.addArguments("--no-sandbox");
         options.addArguments("--headless");
         driver = new ChromeDriver();
+//        driver = webdriver.Chrome('/driver/,chrome_options=chrome_options)
         driver.get("http://localhost:9999");
     }
 
